@@ -6,7 +6,7 @@ theme.hl = function()
 	hl(0,'Normal',{fg=colors.fg, bg=colors.bg})
 	hl(0,'Cursor',{fg=colors.cursorL, bg=colors.cursorD})
 	hl(0, 'CursorLine', { bg = colors.cursorD })
-	--hl(0, 'Directory', { fg = colors.fg, bg = colors.mod })
+	hl(0, 'Directory', { fg = colors.FuncCall, bg = 'NONE' })
 	hl(0, 'ErrorMsg', { fg = colors.err, bg = 'NONE' })
 	--Git
 	hl(0, 'DiffAdd', { fg = 'NONE', bg = colors.Dadd })
@@ -25,6 +25,10 @@ theme.hl = function()
 	--LineaNumber
 	hl(0, 'LineNr', { fg = colors.Lnumber, bg = 'NONE' })
 	hl(0, 'CursorLineNr', { fg = colors.Lnumber, bg = colors.Lnumber })
+	hl(0, 'NonText', {fg=colors.Lnumber, bg='NONE'})
+
+
+	--vim.cmd("highlight! NonText guibg=NONE guifg=" .. colors.Lnumber)
 	--
 	--
 	--ModelMsg
