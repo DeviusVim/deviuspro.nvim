@@ -1,4 +1,4 @@
-<img width=500 alt="deviuspro" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/1a3e0c3c-6393-487e-b76e-f879edb29dd4">
+<img width=500 alt="deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/1a3e0c3c-6393-487e-b76e-f879edb29dd4">
 
 ## 🥳 Welcome to the deviuspro for neovim
 
@@ -16,11 +16,11 @@ syntax highlight
 - Supporting syntax highlights
 # 🤩 deviuspro
 
-<img alt="Deviuspro" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/1a645ba0-49ed-422b-88f2-8e957cbd6ffb">
+<img alt="Deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/1a645ba0-49ed-422b-88f2-8e957cbd6ffb">
 
 
 # 🤩 Lualine Color
-<img alt="Deviuspro" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/08e7f14a-03db-454c-bc70-b8881ed13624">
+<img alt="Deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/08e7f14a-03db-454c-bc70-b8881ed13624">
 
 
 ##  ⚡️ Requirements
