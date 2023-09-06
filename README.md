@@ -1,4 +1,4 @@
-<img width=500 alt="deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/043b87db-6a9a-4794-96a9-291634ca90ec">
+<img width=500 alt="deviuspro" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/1a3e0c3c-6393-487e-b76e-f879edb29dd4">
 
 ## 🥳 Welcome to the deviuspro for neovim
 
@@ -15,11 +15,12 @@ syntax highlight
 - 1 Theme style (deviuspro) and (lualine)
 - Supporting syntax highlights
 # 🤩 deviuspro
-<img alt="Deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/73e88feb-f597-493d-bd13-15f5e151c13c">
+
+<img alt="Deviuspro" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/1a645ba0-49ed-422b-88f2-8e957cbd6ffb">
 
 
 # 🤩 Lualine Color
-<img alt="Deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/814ec216-3c96-41ce-bf8c-1542b737d03d">
+<img alt="Deviuspro" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/08e7f14a-03db-454c-bc70-b8881ed13624">
 
 
 ##  ⚡️ Requirements
@@ -42,7 +43,7 @@ colorscheme deviuspro
 ```
 ### lua
 ```lua
-vim.cmd[[colorscheme deviuspro]]
+vim.cmd[[colorscheme deviuspro]] or vim.cmd("colorscheme deviuspro")
 ```
 
 ##### [Lualine](https://github.com/nvim-lualine/lualine.nvim)
