@@ -1,5 +1,5 @@
 local hl = vim.api.nvim_set_hl
-local colors = require('onedarkpro.colors')
+local colors = require('deviuspro.colors')
 theme = {}
 
 theme.hl = function()

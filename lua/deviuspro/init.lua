@@ -1,15 +1,15 @@
--- onedarkpro.nvim
+-- deviuspro.nvim
 -- By https://github.com/DeviusVim
-require('onedarkpro.highlights')
+require('deviuspro.highlights')
 local nv = {}
-local theme = require('onedarkpro.theme')
+local theme = require('deviuspro.theme')
 function nv.load(style)
 	vim.cmd('hi clear')
 	if vim.fn.exists('syntax_on') then
 		vim.cmd('syntax reset')
 	end
 	vim.o.termguicolors = true
-	vim.g.colors_name = 'onedarkpro'
+	vim.g.colors_name = 'deviuspro'
 	vim.o.background = style or vim.o.background
 	theme.hl()
 end

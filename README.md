@@ -1,36 +1,25 @@
-<!-- <img width=500 alt="Onedark - dark" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/043b87db-6a9a-4794-96a9-291634ca90ec">
+<img width=500 alt="deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/043b87db-6a9a-4794-96a9-291634ca90ec">
 
--->
-## 🥳 Welcome to the onedarkpro for neovim
+## 🥳 Welcome to the deviuspro for neovim
 
-A onedarkpro [Neovim](https://github.com/neovim/neovim) theme written in [Lua](https://www.lua.org) with [lualine](https://github.com/nvim-lualine/lualine.nvim) 
+A deviuspro [Neovim](https://github.com/neovim/neovim) theme written in [Lua](https://www.lua.org) with [lualine](https://github.com/nvim-lualine/lualine.nvim) 
 syntax highlight
 
-# onedarkpro.nvim
-<!--
-**onedarkpro.nvim** is a color theme for the Neovim text editor that aims to enhance the visual experience and aesthetics compared to the popular theme **onedark.nvim**.
-
--->
+# deviuspro.nvim
 
 **Key Features:**
 - A dark and warm color scheme that makes reading and coding easier.
 - Unique customizations for a distinctive look and feel.
-- Compatibility with a variety of programming languages and popular plugins.
-
-<!-- 
-## Inspiration
-This project draws inspiration from the well-known theme **onedark.nvim**, appreciating its attractive aesthetics and color scheme. While we are inspired by **onedark.nvim**, we do not directly copy its code. Instead, we have created a unique theme that is inspired by **onedark.nvim**, offering a fresh and enhanced perspective on the Neovim experience.
---->
 
 ### Features
-- 1 Theme style (onedarkpro) and (lualine)
+- 1 Theme style (deviuspro) and (lualine)
 - Supporting syntax highlights
-# 🤩 onedarkpro
-<img alt="Onedark - dark" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/73e88feb-f597-493d-bd13-15f5e151c13c">
+# 🤩 deviuspro
+<img alt="Deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/73e88feb-f597-493d-bd13-15f5e151c13c">
 
 
 # 🤩 Lualine Color
-<img alt="Onedark - dark" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/814ec216-3c96-41ce-bf8c-1542b737d03d">
+<img alt="Deviuspro" src="https://github.com/DeviusVim/deviuspro.nvim/assets/62192487/814ec216-3c96-41ce-bf8c-1542b737d03d">
 
 
 ##  ⚡️ Requirements
@@ -43,17 +32,17 @@ Install the theme with your preferred package manager, such as
 
 ```lua
 {
-  "DeviusVim/onedarkpro.nvim",
+  "DeviusVim/deviuspro.nvim",
 }
 ```
 ## 🚀 Usage
 ### Vim Script
 ```vim
-colorscheme onedarkpro
+colorscheme deviuspro
 ```
 ### lua
 ```lua
-vim.cmd[[colorscheme onedarkpro]]
+vim.cmd[[colorscheme deviuspro]]
 ```
 
 ##### [Lualine](https://github.com/nvim-lualine/lualine.nvim)
@@ -63,7 +52,7 @@ vim.cmd[[colorscheme onedarkpro]]
 require('lualine').setup {
   options = {
     -- ... your lualine config
-    theme = 'onedarkpro'
+    theme = 'deviuspro'
     -- ... your lualine config
   }
 }
@@ -76,4 +65,4 @@ Pull requests are welcome 🎉👍.
 This project is licensed under the [MIT](https://opensource.org/license/mit/)
 
 
-The onedarkpro theme was created with ❤️ by **karimdev96**. if you like it, please consider giving it a ⭐️ on GitHub!
+The deviuspro theme was created with ❤️ by **karimdev96**. if you like it, please consider giving it a ⭐️ on GitHub!

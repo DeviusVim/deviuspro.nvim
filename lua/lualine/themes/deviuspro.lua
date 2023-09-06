@@ -9,7 +9,7 @@ local Colors = {
 		warns 	= '#Dca054',
 
 }
-local onedarkpro ={
+local deviuspro ={
 		normal ={
 				a = {fg = Colors.bg, bg = Colors.mod},
 				b = {fg = Colors.fg, bg = Colors.bg},
@@ -32,4 +32,4 @@ local onedarkpro ={
 
 
 
-return onedarkpro
+return deviuspro
