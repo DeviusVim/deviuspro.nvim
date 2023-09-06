@@ -1,22 +1,26 @@
-<img width=500 alt="Onedark - dark" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/0c1657fa-4a1f-4a8c-b517-9f13c950215a">
+<!-- <img width=500 alt="Onedark - dark" src="https://github.com/DeviusVim/onedarkpro.nvim/assets/62192487/043b87db-6a9a-4794-96a9-291634ca90ec">
 
+-->
 ## 🥳 Welcome to the onedarkpro for neovim
 
 A onedarkpro [Neovim](https://github.com/neovim/neovim) theme written in [Lua](https://www.lua.org) with [lualine](https://github.com/nvim-lualine/lualine.nvim) 
 syntax highlight
 
 # onedarkpro.nvim
-
+<!--
 **onedarkpro.nvim** is a color theme for the Neovim text editor that aims to enhance the visual experience and aesthetics compared to the popular theme **onedark.nvim**.
+
+-->
 
 **Key Features:**
 - A dark and warm color scheme that makes reading and coding easier.
 - Unique customizations for a distinctive look and feel.
 - Compatibility with a variety of programming languages and popular plugins.
-- Inspired by **onedark.nvim**, but with a focus on aesthetics and the visual experience.
 
+<!-- 
 ## Inspiration
 This project draws inspiration from the well-known theme **onedark.nvim**, appreciating its attractive aesthetics and color scheme. While we are inspired by **onedark.nvim**, we do not directly copy its code. Instead, we have created a unique theme that is inspired by **onedark.nvim**, offering a fresh and enhanced perspective on the Neovim experience.
+--->
 
 ### Features
 - 1 Theme style (onedarkpro) and (lualine)
