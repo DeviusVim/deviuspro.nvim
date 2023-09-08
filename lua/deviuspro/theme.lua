@@ -426,6 +426,7 @@ theme.hl = function()
 	hl(0, 'rustStorage', { fg = colors.red, bg = 'NONE' })
 	hl(0, 'rustStructure', { fg = colors.red, bg = 'NONE' })
 	hl(0, 'rustSigil', { fg = colors.grisC, bg = 'NONE' })
+	hl(0, 'rustFuncName', { fg = colors.aqua, bg = 'NONE' })
 	
 end
 return theme
