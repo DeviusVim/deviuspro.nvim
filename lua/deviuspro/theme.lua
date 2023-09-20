@@ -22,12 +22,13 @@ theme.hl = function()
 	hl(0, 'Folded', { fg = 'NONE', bg = colors.cursorL })
 	hl(0, 'FoldColumn', { fg = colors.fg, bg = colors.cursorL })
 	--
-	hl(0, 'SignColumn', { fg = 'NONE', bg = colors.black })
-	--i
+	hl(0, 'SignColumn', { fg = colors.bg, bg = colors.bg })
+	--
 	--LineaNumber
 	hl(0, 'LineNr', { fg = colors.Lnumber, bg = 'NONE' })
 	hl(0, 'CursorLineNr', { fg = colors.Lnumber, bg = colors.Lnumber })
 	hl(0, 'NonText', {fg=colors.Lnumber, bg='NONE'})
+	hl(0, 'Conceal', {fg='None', bg='NONE'})
 	
 	--V % h
 	hl(0, 'VertSplit', {fg=colors.gris, bg='NONE'})
@@ -427,6 +428,11 @@ theme.hl = function()
 	hl(0, 'rustStructure', { fg = colors.red, bg = 'NONE' })
 	hl(0, 'rustSigil', { fg = colors.grisC, bg = 'NONE' })
 	hl(0, 'rustFuncName', { fg = colors.aqua, bg = 'NONE' })
+	-- CocRust
+	hl(0, 'CocInlayHint', { fg = colors.grisC, bg = 'NONE', })
+	hl(0, 'CocInlayHintParameter', { fg = colors.grisC, bg = 'NONE'})
+	hl(0, 'CocInlayHintType', { fg = colors.grisC, bg = 'NONE'})
+
 	
 end
 return theme
